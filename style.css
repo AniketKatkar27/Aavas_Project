@@ -265,6 +265,9 @@ footer p {
     align-items: center;
     text-align: center;
 }
+#whom h2{
+  width: 100%;
+}
 
 .life,.time,.health,.loan{
     border: 1px solid white;
